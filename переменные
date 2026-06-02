@@ -2,5 +2,5 @@
 name1= "леха"
 name2=name1 
 name1= "женя"
-print ('Привет', name2, "я", name1 )
+print ('Привет', "я", name1 )
 # просто вставь код в пайтон или VS CODE
